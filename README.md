@@ -3,6 +3,9 @@ A web project in Python demonstrating use of the Django framework. The project e
 
 The website could be purposed for a variety of uses. For example, a developer wishing to showcase his projects alongside a personal blog.
 
+# checkout the demo [here](http://ods.sh)
+
+
 ## Commands
 The main command for running the server is as below:
 
